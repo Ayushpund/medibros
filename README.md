@@ -48,9 +48,10 @@ medibros/
    git clone <repo-url>
    cd medibros
 npm install
-# or
 pnpm install
 npm run dev
+
+
 ✨ Thank you for using MediBros! Let’s make healthcare smarter, together.
 ---
 
