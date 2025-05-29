@@ -15,22 +15,7 @@
 - **Backend**: Custom AI flows (TypeScript-based)
 - **Deployment**: Google Cloud (via `apphosting.yaml`)
 
-## 📂 Project Structure
 
-medibros/
-├── .vscode/ # VS Code settings
-├── docs/ # Documentation files
-├── src/ # Source code
-│ ├── ai/ # AI flows and logic
-│ └── ... # Other source files
-├── .gitignore
-├── apphosting.yaml # Google Cloud deployment config
-├── components.json
-├── next.config.ts
-├── package.json
-├── tailwind.config.ts
-├── tsconfig.json
-└── ...
 
 
 ## 🧭 Getting Started
@@ -48,7 +33,11 @@ medibros/
    git clone <repo-url>
    cd medibros
 npm install
+
+
 pnpm install
+
+
 npm run dev
 
 
